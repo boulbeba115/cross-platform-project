@@ -1,0 +1,12 @@
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\bin\Debug\net5.0\iit.crossplateforme.Domain.deps.json
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\bin\Debug\net5.0\iit.crossplateforme.Domain.dll
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\bin\Debug\net5.0\ref\iit.crossplateforme.Domain.dll
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\bin\Debug\net5.0\iit.crossplateforme.Domain.pdb
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\obj\Debug\net5.0\iit.crossplateforme.Domain.csproj.AssemblyReference.cache
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\obj\Debug\net5.0\iit.crossplateforme.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\obj\Debug\net5.0\iit.crossplateforme.Domain.AssemblyInfoInputs.cache
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\obj\Debug\net5.0\iit.crossplateforme.Domain.AssemblyInfo.cs
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\obj\Debug\net5.0\iit.crossplateforme.Domain.csproj.CoreCompileInputs.cache
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\obj\Debug\net5.0\iit.crossplateforme.Domain.dll
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\obj\Debug\net5.0\ref\iit.crossplateforme.Domain.dll
+C:\Users\boulbeba\Desktop\CrossPlatformProj\iit.crossplateforme.Solution\iit.crossplateforme.Domain\obj\Debug\net5.0\iit.crossplateforme.Domain.pdb
